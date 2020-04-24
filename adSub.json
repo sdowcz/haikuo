@@ -1,10 +1,10 @@
 {
     "title": "广告网址拦截",
-    "url": "https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt",
-    "urlV2": "https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt",
+    "url": "https://gitee.com/qiusunshine233/hikerView/raw/master/ad_v1.txt",
+    "urlV2": "https://gitee.com/qiusunshine233/hikerView/raw/master/ad_v2.txt",
     "domBlockRuleUrl": "https://gitee.com/qiusunshine233/hikerView/raw/master/domBlockRules.txt",
     "version": 47,
     "domBlockRuleVersion": 7,
     "desc": "",
-    "time": "2020-04-24 12:11"
+    "time": "2020-04-24 19:11"
 }
