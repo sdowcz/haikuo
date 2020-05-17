@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         广告过滤，纯净上网
+// @name         纯净上网
 // @namespace    sg_dog_document
 // @version      1.0.1
 // @description  好网站，要共享
