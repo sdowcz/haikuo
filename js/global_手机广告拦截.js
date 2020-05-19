@@ -1,6 +1,6 @@
 // ==UserScript== 
 // @name   手机广告拦截
-// @description  脚本功能目前如下 ：01：（全局屏蔽 && 一对一屏蔽）由于adguard无法过滤display: block !important元素广告，所以写了个脚本强制过滤这类型的广告，02：根据不同域名模仿不同设备。
+// @description  脚本功能目前如下 ：01：（全局屏蔽 && 一对一屏蔽）由于adguard无法过滤display: block !important元素广告，02：根据不同域名模仿不同设备。
 // @run-at   document-end
 // ==/UserScript==
 
