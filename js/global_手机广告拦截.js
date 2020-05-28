@@ -19,7 +19,7 @@ bxj='{display:block!important;max-width:none!important;max-height:none!important
 ///* ! ------------------------------------------------------------------------------------------------------------------------------------------------------ */
 function y(host_url){var host=location.host;var ps=host.indexOf(host_url);if(ps<0){return 0}return 1};
 ///* ! ------------------------(只支持正则表达式写法)--------------禁止 小白adguard自用--增强隐藏 在什么域名下执行------------------------------------------- */
-if(!(w.match(/^https?:\/\/(?:bbs\.binmt\.cc|m\.ithome\.com|qqweb\.qq|www\.google\..+?\/search\?safe=)/i))){
+if(!(w.match(/^https?:\/\/(?:bbs\.binmt\.cc|m\.ithome\.com|zzzttt\.me|qqweb\.qq|www\.google\..+?\/search\?safe=)/i))){
 ///* ! ------------------------------------------------------------小白adguard自用--增强隐藏----------------------------------------------------------------- */
 if(!(w.match(/^https?:\/\/(?:gitee|blog\.csdn)\./i)))css+=[
 /* ! -----手机横幅------ */
