@@ -1,5 +1,9 @@
 {
-   "notice": "",
+     "notice": {
+        "title":"",
+        "desc":"",
+        "picUrl":""
+    },
    "data":  [
 {
    "title":"片吧",
