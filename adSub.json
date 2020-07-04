@@ -3,7 +3,7 @@
     "url": "https://filters.adtidy.org/extension/chromium/filters/11.txt",
     "urlV2": "https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt",
     "domBlockRuleUrl": "https://gitee.com/qiusunshine233/hikerView/raw/master/domBlockRules.txt",
-    "version": 1,
+    "version": 49,
     "domBlockRuleVersion": 7,
     "desc": "",
     "time": "2020-07-4 06:08"
