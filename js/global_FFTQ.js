@@ -1,4 +1,3 @@
-
 -function () {
     if (self != top) { } else {
         let w = location.href; function y(host_url) { let host = location.host, ps = host.indexOf(host_url); if (ps < 0) { return 0 } return 1 }; var css = '', jxb = '{display:none!important;max-width:0!important;max-height:0!important;overflow:hidden!important;position:absolute;left:-102030px}', bxj = '{display:block!important;max-width:none!important;max-height:none!important;overflow:auto!important;position:relative;left:auto}'; if (!document.querySelector("#stylus-jiangxiaobai")) {
