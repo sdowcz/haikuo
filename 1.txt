@@ -29274,3 +29274,4 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||pub.funshion.com
 ||www.dililitv.com/*.php?ad=$script
 */preroll/$media,domain=91porn.com
+||ddrk.me/vjs-plugins/videojs.das.min.js
