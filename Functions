@@ -1,0 +1,12 @@
+function getElement(fuTag, sonTag) {
+        let t = parseDom(getResCode(), fuTag + '&&Html');
+            let mark = '</' + sonTag + '>';
+                let arr = t.split(mark);
+                    arr.pop();
+                        let arrs = [];
+                            for (var i in arr) {
+                                        arrs.push(arr[i] + mark)
+                            }
+                                return arrs;
+
+                            }
