@@ -28750,8 +28750,6 @@ $$p[class="ReadAd"]
 ||adstats.
 $$div[class="ad_bottom"]
 $$div[class="ad_top"]
-[Adblock Plus 2.0]
-
 v.youku.com##.control-phonewatch,#right-title-ad-banner
 !v.youku.com##+js(nano-stb)
 ||atm.youku.com/
