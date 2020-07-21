@@ -1,6 +1,6 @@
 [Adblock Plus 3.1]
 ! Checksum: i/SxZCZ0v5YxyqX3VrQQxA
-! Title: AdGuard Mobile Ads filter
+! Title: 发粪涂墙
 ! Description: Filter for all known mobile ad networks. Useful for mobile devices.
 ! Version: 2.0.13.95
 ! TimeUpdated: 2020-07-20T15:30:18+03:00
