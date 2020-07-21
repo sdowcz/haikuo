@@ -4655,6 +4655,7 @@ ibtuu.com##[class^="a_"]
 iciba.com##div#ad_right_box,img[width="960"][height="60"],div[class="ad_list"],div#bottom_ad,div.kk01,div#ad-top,div.pc-entry.pc-entry-1380,div.dict_right5,.adsbygoogle,.search-ad
 iconarchive.com##DIV#fbpop
 id97.com##.ad-box
+idanmu.ch##[id^="gbox"],div#ggbox-header,div#ggbox-footer,.featured-ad.section,.section_line.clear,div.ad-container,aside[id^="widget_adbox"]
 idanmu.org##.adbox,.ad-container
 idaybreak.com##testwidget
 iefans.net##.ad,.mod-media-340
