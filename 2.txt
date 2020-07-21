@@ -52797,30 +52797,23 @@ toutiao.china.com###js-free-time-show
 ! Facebook
 www.facebook.com###pagelet_side_ads
 www.facebook.com##.egoOrganicColumn+*
-! ithome
 ithome.com###a_ad
 www.ithome.com###lapin
 www.ithome.com##.content>a[href="http://m.ithome.com/ithome/"]
 ||img.ithome.com/file/js/wap/apprecommend.js
-! Letv
-|http://*/letv-gug/
+||http://*/letv-gug/
 ||banana.le.com/letv_tracker.js$domain=m.le.com
 ||dc.letv.com/op/?
 ||player.letvcdn.com/*/newplayer/1/WatchingBuy.swf
-! mgtv
 m.mgtv.com##.mg-dcross
 www.mgtv.com##.m-headgg
-! mydrivers
 www.mydrivers.com###weixin_box
-! OutLook
 ||res.office365.com/*/scripts/owa.AdsPanel.js
 ||res.office365.com/*/scripts/microsoft.owa.adsbar.js
 ||outlook.live.com/*/scripts/microsoft.owa.adsbar.js
-! Paper
 www.thepaper.cn##.pdtt01
 m.thepaper.cn##.toutiao
 m.thepaper.cn##.bot_banner
-! PornHub
 pornhub.com###hd-rightColVideoPage>none
 pornhub.com##.videos-morepad.videos.full-row-thumbs.videos-being-watched.logInHotContainer+*
 pornhub.com##.inesuch
@@ -52830,35 +52823,19 @@ pornhub.com##.hd.clear
 ||phncdn.com/www-static/js/widgets-live-popup.js
 ||phncdn.com/www-static/js/ph-tracking.js
 ||phncdn.com/www-static/js/promo-banner.js
-! QQVideo
-!||ca.gtimg.com/adplugin/swf/MediaPlugin.swf
-! Youtube
 youtube.com###contents>ytd-search-pyv-renderer
 youtube.com###video-masthead
 youtube.com###masthead-ad
 m.youtube.com###koya_child_6
-!m.youtube.com##._menb>._mab:nth-child(1)
 ||youtube.com/*=adunit&
 ||youtube.com/*&yt_ad
 ||youtube.com/get_midroll_info?
-! Baidu
 ^monitor.jpg?xcode^
 pan.baidu.com##.upload-bar.global-clearfix
-! Images & Scripts
 */widget/spage_game_tab/$domain=tieba.baidu.com
 ||xiu8.com/live/$domain=tieba.baidu.com
 ||share.baidu.com/static/js/
-! iTieba & Homepage
-! Top Right
-!jump.bdimg.com,tieba.baidu.com##.u_bdhome
-!jump.bdimg.com,tieba.baidu.com##.u_member
-! Top
-! Sides
-! Central
-! Bottom
-! Mobile
 tieba.baidu.com##.forum_recommend_w
-! 乘风 视频广告过滤规则
 tucao.one##DIV[class^="c_c"]
 tucao.one##DIV[style*="height:10"][style*="width:964"]
 ||ynhuya.cn^
