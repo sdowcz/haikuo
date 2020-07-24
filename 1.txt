@@ -9064,7 +9064,7 @@ qidian.com##DIV.module-header,#DIV.footer-backtop-cell jsGuestWrapper,#DIV.modul
 ||cpull.360.cn/is_need_ad
 ||adashbc.m.taobao.com/rest^$app=com.leku.ustv
 !baidu.com###tab_news_1,DIV.first-card-main,DIV.first-card-close-img,DIV.first-card-slogan,DIV.first-card-body,#index-copyright,A.recordcode,#userinfo-wrap,DIV.icon-weather-default,DIV.weather-num,DIV.weather-status,I.icon-down,SPAN.mgr-mask,DIV.blank-frame,#menu-item-13,#menu-item-11,#channel_mgr,#foot
-baidu.com##DIV.blank-frame,#login-wraps,a.square-enterance
+baidu.com##DIV.blank-frame,#login-wraps,a.square-enterance,#bottom
 baidu.com###menu-item-4,#menu-item-6,#menu-item-18,#menu-item-15,#menu-item-14,UL.menu-item-wrap,DIV.channel-mgr-wrapper,#menu-container
 taobao.com##DIV._2-Q7hSLdmo7eAQs6ypio1m,SECTION._17RmLD-GpgOKhfzcBdoxTJ,#r203ae9_open,DIV._2IjaJJcGLxfhZizlEvNf6I
 coolapk.com##P.under_title,DIV.under
