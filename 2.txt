@@ -9836,7 +9836,6 @@ tv.sohu.com##.x-dl-shake.x-download-panel, #playerBar > div.area ~a
 le.com##.banner_ad,#rightBottomPop,div.banner_left,div.banner_right,[id^=pause_a_content_h5ad]
 douyu.com##div[class$="-ad"],div[class|=ad],div.no-login
 huya.com###hy-ad,#hy-ab,#huya-ab
-! Fix for MS Edge
 tieba.baidu.com###pagelet_entertainment-liveshow\/pagelet\/video_head
 ! Start
 500px.com###hellobar
