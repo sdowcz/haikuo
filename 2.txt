@@ -29367,7 +29367,6 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||kwflvcdn.000dn.com^
 ||s8.001fzc.com^
 ||yn.001fzc.com^
-/^(\S+\.)?[0-9a-f]{15,}\.com$/
 ||0082tv.net^
 ||0086555.com^
 ||qjfcdn1220.0101122.com^
@@ -29382,7 +29381,6 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||5ijo.01net.com^
 ||securite.01net.com^
 ||020wujin.cn^
-/^(\S+\.)?[0-9a-z]{16,}\.xyz$/
 ||weldc1.021ye.com^
 ||024chaoren.cn^
 ||0330vsdgdwer.xyz^
@@ -29467,12 +29465,10 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||eq.10jqka.com.cn^
 ||fund.10jqka.com.cn^
 ||ozone.10jqka.com.cn^
-/^(\S+\.)?(web)?stats?\./
 ||vaserviece.10jqka.com.cn^
 ||10y5gehv.com^
 ||1100i.com^
 ||110160.com^
-/^(\S+\.)?ad([\d]|m|s)?\./
 ||creative.1111cpc.com^
 ||1115potmgabfvixqwi.top^
 ||111ol.com^
@@ -29480,7 +29476,6 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||1133.cc^
 ||114lm.com^
 ||114yeah.com^
-/^(\S+\.)?11599[\da-z]{2,20}\.com$/
 ||118114.cn^
 ||1188.com^
 ||11a581bbb5038e.com^
@@ -29508,7 +29503,6 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||125331.top^
 ||health1.12584.cn^
 ||ir.mail.126.com^
-/^(\S+\.)?analytics(\-|\.)/
 ||push.126.net^
 ||mimg.126.net^
 ||pg-ad-b2.ws.126.net^
@@ -29636,7 +29630,6 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||1han-rit-ten.com^
 ||1hanritten.com^
 ||1haows.cn^
-/^(\S+\.)?counter(\-|\.)/
 ||static.1j1j.com^
 ||1jsskipuf8sd.com^
 ||1jvd7f7w.top^
@@ -29656,7 +29649,6 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||inapp.1sapp.com^
 ||1sen-pit-fan.com^
 ||1st2nd.xyz^
-/^(\S+\.)?pixels?\./
 ||1v7.cn^
 ||1web.me^
 ||gg.1whour.com^
@@ -29713,7 +29705,6 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||247view.net^
 ||24businessnews.com^
 ||24counter.com^
-/^(\S+\.)?track(ing)?\./
 ||24vunvrv.com^
 ||24x7adservice.com^
 ||2526game.com^
@@ -30161,7 +30152,6 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||602d76e204c032.com^
 ||6068a17eed25.com^
 ||612.com^
-/^(\S+\.)?61677[\da-z]{0,20}\.com$/
 ||6198399e4910e66-ovc.com^
 ||6200a50af8e3.com^
 ||620c663bca9a4.com^
@@ -30187,7 +30177,6 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||65xps.com^
 ||6615338.cn^
 ||6666349.com^
-/^(\S+\.)?6699[0-9]\.top$/
 ||66992949.com^
 ||67126e4413a.com^
 ||67785az.com^
@@ -30265,7 +30254,6 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||76802.net^
 ||76xs.com^
 ||77455.com^
-/^(\S+\.)?777\-?partners?\.(net|com)$/
 ||77777.org^
 ||777a2aceac3ff.com^
 ||777seo.com^
@@ -30568,7 +30556,6 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||abfcfxfkzmiqht.com^
 ||abgeobalancer.com^
 ||abgligarchan.com^
-/^(\S+\.)?abie[0-9]+\.top$/
 ||abjusouft.com^
 ||ablehed.pro^
 ||ablenctionalle.info^
@@ -30715,7 +30702,6 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||ad-survey.com^
 ||ad-u.com^
 ||ad-vice.biz^
-/^(\S+\.)?ad[0-9]{3,}m.com$/
 ||ad1data.com^
 ||ad1rtb.com^
 ||ad20.net^
@@ -31427,7 +31413,6 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||advfeeds.com^
 ||advg.jp^
 ||advgoogle.com^
-/^(\S+\.)?widgets?\./
 ||widgetcf.adviceiq.com^
 ||advideum.com^
 ||advinci.co^
@@ -31557,7 +31542,6 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||affiliate-b.com^
 ||affiliate-gate.com^
 ||affiliate-robot.com^
-/^(\S+\.)?affiliat(es|ion|e)\./
 ||affiliateedge.com^
 ||affiliateedge.eu^
 ||affiliateer.com^
@@ -31756,7 +31740,6 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||szb.aiyole.com^
 ||fpbb.aizhan.com^
 ||aizhigu.com.cn^
-/^(\S+\.)?aj[0-9]{4,}.online$/
 ||ajagrofy.com^
 ||ajansreklam.net^
 ||ajcryptominer.com^
@@ -31863,7 +31846,6 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||bmp.ali213.net^
 ||bmp1.ali213.net^
 ||web.ali213.net^
-/^(\S+\.)?ali2[a-z]\.xyz$/
 ||aliadvert.ru^
 ||aliapp.org^
 ||acookie.alibaba.com^
@@ -32691,7 +32673,6 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||averallasew.club^
 ||avercarto.com^
 ||avero.xyz^
-/^(\S+\.)?toolbar\./
 ||sub.avgle.com^
 ||metrics.aviasales.ru^
 ||pgs.aviationweek.com^
@@ -34103,7 +34084,6 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||wap.bytdzsw.com^
 ||bytemgdd.com^
 ||byusabodcwyct.com^
-/^(\S+\.)?([a-z\d\-]+\.)?(?!xn--)[^\.\/]{26,}\.(com|net|cn)(\.cn)?$/
 ||byvue.com^
 ||byxlivaqzo.com^
 ||byzoo.org^
@@ -34157,7 +34137,6 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||cadfixbig.site^
 ||cadlereducter.info^
 ||cadreon.com^
-/^(\S+\.)?[c-s]ads(abs|abz|ans|anz|ats|atz|del|ecs|ecz|ims|imz|ips|ipz|kis|kiz|oks|okz|one|pms|pmz)\.com/
 ||cadslimz.com^
 ||cafe58cc6d0ac.com^
 ||click2.cafepress.com^
@@ -37188,7 +37167,6 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||afpimages.eastday.com^
 ||hot.eastday.com^
 ||mini.eastday.com^
-/^(\S+\.)?tongji\./
 ||0koryu0.easter.ne.jp^
 ||easternpush.xyz^
 ||jb.eastlady.cn^
@@ -39491,7 +39469,6 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||goodtag.it^
 ||goodwold.top^
 ||google-rank.org^
-/^(\S+\.)?adservice\.google\./
 ||fcmatch.google.com^
 ||mail-ads.google.com^
 ||plusone.google.com^
@@ -50307,9 +50284,7 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||oascentral.sina.com^
 ||pfpip.sina.com^
 ||count.video.sina.com.cn^
-/^(\S+\.)?d[\d]+\.sina(img)?(\.com)?\.cn/
 ||pfp.sina.com.cn^
-/^(\S+\.)?sax[\dns]?\.sina\.com\.cn/
 ||add.sina.com.cn^
 ||leju.sina.com.cn^
 ||dcads.sina.com.cn^
@@ -53894,7 +53869,6 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||phonograph2.voxmedia.com^
 ||providence.voxmedia.com^
 ||targeting.voxus.tv^
-/^(\S+\.)?voyage-prive\.[a-z]+(\.uk)?$/
 ||voyeurbase.com^
 ||voyeurhit.com^
 ||links.voyeurweb.com^
@@ -55210,7 +55184,6 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||www.hospedar.xpg.com.br^
 ||xpgfsxoyijt.com^
 ||xpigohyzfdcgp.com^
-/^(\S+\.)?xpj[0-9]\.net$/
 ||xpj8088.com^
 ||xpjkf888.com^
 ||xpjylc9977.com^
@@ -55724,7 +55697,6 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||ylqbiljjlyq.com^
 ||kn.ylrca.cn^
 ||ylwy168.com^
-/^(\S+\.)?ylx-[0-9].com$/
 ||ylzx.net^
 ||ymbpndswe.com^
 ||ymerjqsynqoxdm.com^
