@@ -10544,7 +10544,6 @@ _good_id=
 /adimages/*
 /adimg.163.com/*
 /adimg/*
-/adlog/*
 /adrotator.
 /ads_
 /adscripts/*
