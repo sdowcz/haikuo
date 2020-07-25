@@ -1,4 +1,4 @@
-[Adblock Plus 3.1]
+[Adblock Plus 2.0]
 ! Checksum: i/SxZCZ0v5YxyqX3VrQQxA
 ! Title: 发粪涂墙
 ! Expires: 2 days
