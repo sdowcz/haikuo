@@ -1,3 +1,10 @@
+[Adblock Plus 3.1]
+! Checksum: i/SxZCZ0v5YxyqX3VrQQxA
+! Title: 发粪涂墙
+! Expires: 12 hours
+! Description: Filter for all known mobile ad networks. Useful for mobile devices.
+! Version: 202007250900
+! Last Modified: 2020年07月25日 09:00
 ||adsrv.eacdn.com^
 ||videoo.tv^
 ||mtecso.online^
