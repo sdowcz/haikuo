@@ -61250,3 +61250,6 @@ _mongo_stats/
 @@||uaprom.net/image/blank.gif?$image
 @@||ukrposhta.ua/js/tracking.js
 @@|http://r.i.ua/s?*&amp;p*&amp;l$image,domain=swordmaster.org
+tcmove.com##body>div.fed-main-info.fed-min-width>div>a
+baidu.com##div.reader-pop-manager-view-containter,.video-rec-wrap
+@@||gitee.com^
