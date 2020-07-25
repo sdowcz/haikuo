@@ -29275,3 +29275,4 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||ddrk.me/vjs-plugins/videojs.das.min.js
 tcmove.com##body>div.fed-main-info.fed-min-width>div>a
 baidu.com##div.reader-pop-manager-view-containter,.video-rec-wrap
+@@||gitee.com
