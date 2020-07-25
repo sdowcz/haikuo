@@ -48117,7 +48117,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ##.container &gt; a.mid-wrapper
 @@||5tps.com/playm/flw.
 @@||7k7k.com/channel$subdocument
-@@||baidu.com/cse/search?$domain=16xx8.com
 @@||ditiezu.com^*.php$subdocument
 @@||iiszg.com/flw.$domain=5tps.com
 @@||myqcloud.com/vod-player/$domain=guancha.cn
@@ -48194,7 +48193,6 @@ bingfeng.tw##div[style="position: fixed; left: 0px; top: 0px; width: 100%; heigh
 ##.footer &gt; #box[style="width:100%;height:100%;position:fixed;top:0"]
 ##a[href*=".gotourls.bid"]
 ##a[href^="http://yunbofangbt."]
-@@||baidu.com^*&amp;cb=BaiduSuggestion.
 @@||jsdelivr.net/opensug/1.1.2/opensug.js
 btzhongzifuli.com,cililianbt.org,maomaobt.cc,sousoucili.com,zhainanzhongzi.cc##.photos
 ||uux79.com^$third-party
@@ -48582,7 +48580,6 @@ fqsousou.com,kengso.com#@#.user-share
 @@/share/js/*$domain=yunpanjingling.com
 @@/wp-content/*/social_$domain=servercat.me
 @@||anyknew.com^$generichide
-@@||baidu.com/share/count?
 @@||bdimg.com/static/wenda-pc/widget/share/share_
 @@||carexpert.com.tw/wp-content/plugins/like-box-pro/includes/javascript/front_end_js.js
 @@||chuangkit.com^$generichide
@@ -48638,9 +48635,6 @@ fqsousou.com,kengso.com#@#.user-share
 @@||appledaily.com/js/nxm_
 @@||autohome.com.cn/javascript/fingerprint.js
 @@||autoimg.cn/bi/common/pvevent_all_
-@@||baidu.com/h.js$domain=19lou.com|baomihua.com|ihome99.com
-@@||baidu.com/hm.js$domain=dwz.cn
-@@||baidu.com/location/ip?$domain=dominos.com.cn|tanmizhi.com
 @@||bilibili.com^*/web_page_view?$domain=message.bilibili.com
 @@||bitauto.com/bglogpostlog.js
 @@||captcha.qq.com^*&amp;refer=http
@@ -68820,7 +68814,6 @@ tieba.baidu.com###guide_fc,#global_notice_wrap,.content_top,.forum_header>div:fi
 ||cbjslog.baidu.com/
 ||crs.baidu.com/
 ||list.video.baidu.com/pc_static/promotion/
-@@||baidu.com/customer_search/api/
 ||znsv.baidu.com/
 ||pups.bdimg.com/ baike.baidu.com###adLayerSideWrap
 ||baike.baidu.com/api/wikiad/
@@ -74126,7 +74119,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##div[tpl^="soft"] >
 ###wrapper > div[style="padding:3px;"] > #pic
 ##.container > .pic_container
 ##.container > a.mid-wrapper
-@@||baidu.com/cse/search?$domain=16xx8.com^
 ##div[id][style="width: 100%;"] > div > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[id][style="width: 100%;"] > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[id][style="width: 100%;"] > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
@@ -74354,7 +74346,6 @@ bejson.com##div[id^="mylinks"]
 ||bejson.com/static/3part/layer1/layer
 @@/unadblock/adjs_$domain=bingfeng.tw
 ##.footer > #box[style="width:100%;height:100%;position:fixed;top:0"]
-@@||baidu.com^*&cb=BaiduSuggestion.
 ||0377shujuhuifu.top^
 ||258pct.com^
 ||711983.com^
@@ -75009,9 +75000,6 @@ baidu.com,youdao.com#@#.share-content
 @@||alicdn.com/dt/tracker/2.5.1/tracker.js$domain=alimama.com^
 @@||atanx.alicdn.com/t/tanxssp.js$domain=alimarket.tmall.com|www.taobao.com|www.tmall.com^
 @@||bagehd.com/iplookup.
-@@||baidu.com/h.js$domain=19lou.com|baomihua.com|ihome99.com^
-@@||baidu.com/hm.js$domain=dwz.cn^
-@@||baidu.com/location/ip?$domain=dominos.com.cn|tanmizhi.com^
 @@||captcha.qq.com^*&refer=http
 @@||dictionary.search.yahoo.com/beacon/sc?&ajaxdd=tabsCard&
 @@||geo.query.yahoo.com^$xmlhttprequest,domain=tw.autos.yahoo.com|tw.buy.yahoo.com^
