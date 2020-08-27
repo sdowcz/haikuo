@@ -2,9 +2,7 @@ function fftq() {
 var res = {};
 var d = [];
 var html = getResCode();
-
 var tabs = parseDom(html, 'body&&Html').match(/"stui-pannel__head[\s\S]*?<\/h3/g);
-
 var conts = parseDom(html, 'body&&Html').match(/\"stui-content__playlist[\s\S]*?<\/ul>/g);
 
 d.push({
